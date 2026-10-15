@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "url": "https://hytale.com/news/2026/10/2026-10-12-chapter-i-out-of-the-breach/",
+      "revision": "sha256:c8332f4800d7c6eb17e4d70856bbd02c87421fbd9fe2f57fd9c3917c13e93257",
+      "retrievedAt": "2026-10-15T14:40:52.850Z",
+      "title": "Chapter I: Out of the Breach",
+      "license": "Factual reference to official Hytale release notes; independently written summary, no copied article.",
+      "attribution": "Hytale Team / Hypixel Studios",
+      "modifications": "Selective summary. Lab costs and recipe requirements are independently checked against release game records."
+    },
+    {
+      "url": "https://hytl.dev/items/GoblinLab_Generator",
+      "title": "Goblin Power Generator",
+      "revision": "sha256:95b1d2917b3cdf115af7ea802cc2a5de4acfdd097173cec96623f93595cb9455",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose reproduced.",
+      "attribution": "Hytale release game-file records, checked against the HYTL.DEV release index",
+      "modifications": "Original explanation and repair-cost tables from AugmentBlock upgrades; crafting requirements from the actual recipe."
+    },
+    {
+      "url": "https://hytl.dev/items/GoblinLab_Fragment_Portal",
+      "title": "The Goblin Gateway",
+      "revision": "sha256:f8410681942ffb63a8d482d7d7f0956abc3e472eb21b7f820461b28abbe4722d",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose reproduced.",
+      "attribution": "Hytale release game-file records, checked against the HYTL.DEV release index",
+      "modifications": "Original explanation and repair-cost tables from AugmentBlock upgrades; crafting requirements from the actual recipe."
+    },
+    {
+      "url": "https://hytl.dev/items/GoblinLab_Console",
+      "title": "Goblin Breach Console",
+      "revision": "sha256:f1100be37c7fbb031551ffe7ed510fc1fd95872fa64deb74cb2ab3956bc27f8f",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose reproduced.",
+      "attribution": "Hytale release game-file records, checked against the HYTL.DEV release index",
+      "modifications": "Original explanation and repair-cost tables from AugmentBlock upgrades; crafting requirements from the actual recipe."
+    },
+    {
+      "url": "https://hytl.dev/items/GoblinLab_Tinkering_Bench",
+      "title": "Goblin Tinkerer's Workbench",
+      "revision": "sha256:37f69d9d8bd7ea2e2392141e6a86eeec49182650eeffe3d55d94634084ee22fc",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose reproduced.",
+      "attribution": "Hytale release game-file records, checked against the HYTL.DEV release index",
+      "modifications": "Original explanation and repair-cost tables from AugmentBlock upgrades; crafting requirements from the actual recipe."
+    },
+    {
+      "url": "https://hytl.dev/items/GoblinLab_Tinkering_Bench_Recipeset_A",
+      "title": "Boiler",
+      "revision": "sha256:584c7c373624e9bf12acecee59a880d51959f39b2cee60e1f2b8013e607cc16d",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose reproduced.",
+      "attribution": "Hytale release game-file records, checked against the HYTL.DEV release index",
+      "modifications": "Original explanation and repair-cost tables from AugmentBlock upgrades; crafting requirements from the actual recipe."
+    },
+    {
+      "url": "https://hytl.dev/items/GoblinLab_Tinkering_Bench_Recipeset_B",
+      "title": "Engine",
+      "revision": "sha256:ccdc3c13253b70c541b608079a8c586f9bbf40182d253e48be38553b181d405b",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose reproduced.",
+      "attribution": "Hytale release game-file records, checked against the HYTL.DEV release index",
+      "modifications": "Original explanation and repair-cost tables from AugmentBlock upgrades; crafting requirements from the actual recipe."
+    },
+    {
+      "url": "https://hytl.dev/items/GoblinLab_Tinkering_Bench_Recipeset_C",
+      "title": "Compressor",
+      "revision": "sha256:78f94ef6ca612b7fc7fd7e73a8bd86302c5a1421a4ad63187e67b26abf7d345e",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose reproduced.",
+      "attribution": "Hytale release game-file records, checked against the HYTL.DEV release index",
+      "modifications": "Original explanation and repair-cost tables from AugmentBlock upgrades; crafting requirements from the actual recipe."
+    },
+    {
+      "url": "https://hytl.dev/items/PortalKey_The_Deepworks",
+      "title": "Fragment: Orbis - The Deepworks",
+      "revision": "sha256:8e8fec34451af5970aa3697126b71c4ff0fc4aea1281fc6b88c9bb7cd4469606",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose reproduced.",
+      "attribution": "Hytale release game-file records, checked against the HYTL.DEV release index",
+      "modifications": "Original explanation and repair-cost tables from AugmentBlock upgrades; crafting requirements from the actual recipe."
+    },
+    {
+      "url": "https://hytl.dev/items/PortalKey_Goblin_Breach",
+      "title": "Fragment: Orbis - The Guttering Hollows",
+      "revision": "sha256:51227028945287ffd6d548b0cedb333de81e8201521a0c10ede5cf9d2c292b97",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose reproduced.",
+      "attribution": "Hytale release game-file records, checked against the HYTL.DEV release index",
+      "modifications": "Original explanation and repair-cost tables from AugmentBlock upgrades; crafting requirements from the actual recipe."
+    },
+    {
+      "url": "https://hytl.dev/items/Ingredient_Gadget_Assembly",
+      "title": "Dubious Assembly",
+      "revision": "sha256:7424f0a3bd91ef99e12d3d0aae64441bbb1c7a5e1f72f8c5917319628a567580",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose reproduced.",
+      "attribution": "Hytale release game-file records, checked against the HYTL.DEV release index",
+      "modifications": "Original explanation and repair-cost tables from AugmentBlock upgrades; crafting requirements from the actual recipe."
+    },
+    {
+      "url": "https://hytl.dev/wiki/exploration/chapter-one",
+      "title": "Hytale2026-10-15_16-12-25.png",
+      "revision": "sha256:dcc488afb79b022140147b9eee27d29da95e4ddbbed171fb16fde7e67b0ebb10",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Contributor-supplied gameplay screenshot, supplied for publication in this wiki. Hytale assets retain their original rights; excluded from the article text license.",
+      "attribution": "Community gameplay screenshot · Hytale assets © Hypixel Studios.",
+      "modifications": "Proportional resize from 3840×2160 to 1600×900; metadata-free canonical PNG. No crop, compositing or generated artwork."
+    },
+    {
+      "url": "https://hytl.dev/wiki/exploration/chapter-one",
+      "title": "Hytale2026-10-15_16-12-53.png",
+      "revision": "sha256:6af1f864e8a0ad1f1b295bf6261e05a59ec20df656e5ab282704c503ec2c2a61",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Contributor-supplied gameplay screenshot, supplied for publication in this wiki. Hytale assets retain their original rights; excluded from the article text license.",
+      "attribution": "Community gameplay screenshot · Hytale assets © Hypixel Studios.",
+      "modifications": "Proportional resize from 3840×2160 to 1600×900; metadata-free canonical PNG. No crop, compositing or generated artwork."
+    },
+    {
+      "url": "https://hytl.dev/wiki/exploration/chapter-one",
+      "title": "Hytale2026-10-15_16-12-43.png",
+      "revision": "sha256:04c44461d26fbf2b8486afd2d8d93318e6403b46c93ad56c632ef0149e998906",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Contributor-supplied gameplay screenshot, supplied for publication in this wiki. Hytale assets retain their original rights; excluded from the article text license.",
+      "attribution": "Community gameplay screenshot · Hytale assets © Hypixel Studios.",
+      "modifications": "Proportional resize from 3840×2160 to 1600×900; metadata-free canonical PNG. No crop, compositing or generated artwork."
+    },
+    {
+      "url": "https://hytl.dev/wiki/exploration/chapter-one",
+      "title": "Hytale2026-10-15_16-13-00.png",
+      "revision": "sha256:d0fea9c451ae14c57ba9264eba84117faa690976d0ab2f7f31a8242dcc72bc7e",
+      "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+      "license": "Contributor-supplied gameplay screenshot, supplied for publication in this wiki. Hytale assets retain their original rights; excluded from the article text license.",
+      "attribution": "Community gameplay screenshot · Hytale assets © Hypixel Studios.",
+      "modifications": "Proportional resize from 3840×2160 to 1600×900; metadata-free canonical PNG. No crop, compositing or generated artwork."
+    }
+  ]
+}

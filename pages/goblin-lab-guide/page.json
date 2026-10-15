@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "goblin-lab-guide",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "exploration",
+    "crafting"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "zone",
+      "id": "ForgottenTemple",
+      "role": "primary"
+    },
+    {
+      "kind": "wiki",
+      "id": "chapter-one",
+      "role": "related"
+    },
+    {
+      "kind": "item",
+      "id": "GoblinLab_Generator",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "GoblinLab_Fragment_Portal",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "GoblinLab_Console",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "GoblinLab_Tinkering_Bench",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "GoblinLab_Tinkering_Bench_Recipeset_A",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "GoblinLab_Tinkering_Bench_Recipeset_B",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "GoblinLab_Tinkering_Bench_Recipeset_C",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "PortalKey_The_Deepworks",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "PortalKey_Goblin_Breach",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ingredient_Gadget_Assembly",
+      "role": "guide"
+    }
+  ]
+}
