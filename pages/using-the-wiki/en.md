@@ -37,3 +37,5 @@ A recipe or creature card is loaded from an indexed dataset rather than copied i
 Sign in to save a private draft. The editor offers a preview before you submit a public suggestion. Submitting makes the proposed text and chosen public alias visible in the content repository. Editors can review suggestions; publication is a separate step from saving a draft.
 
 Keep a source for factual changes. Explain conditions and uncertainty instead of turning a recorded reference into a guaranteed drop, spawn or crafting outcome.
+
+Editors and administrators can publish validated changes directly. If the editor asks you to refresh your privileges, follow the sign-in link to retrieve your current permissions.
