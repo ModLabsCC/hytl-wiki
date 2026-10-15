@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "crafting-an-iron-sword",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "crafting",
+    "equipment"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Weapon_Sword_Iron",
+      "role": "primary"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "getting-started",
+    "labels": {
+      "en": "Getting started",
+      "de": "Erste Schritte"
+    }
+  },
+  {
+    "id": "crafting",
+    "labels": {
+      "en": "Crafting",
+      "de": "Herstellung"
+    }
+  },
+  {
+    "id": "equipment",
+    "labels": {
+      "en": "Equipment",
+      "de": "Ausrüstung"
+    }
+  },
+  {
+    "id": "materials",
+    "labels": {
+      "en": "Materials",
+      "de": "Materialien"
+    }
+  },
+  {
+    "id": "creatures",
+    "labels": {
+      "en": "Creatures",
+      "de": "Kreaturen"
+    }
+  },
+  {
+    "id": "exploration",
+    "labels": {
+      "en": "Exploration",
+      "de": "Erkundung"
+    }
+  }
+]

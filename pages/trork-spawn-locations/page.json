@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "trork-spawn-locations",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "creatures",
+    "exploration"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "entity",
+      "id": "Trork_Chieftain",
+      "role": "primary"
+    },
+    {
+      "kind": "entity",
+      "id": "Trork_Hunter",
+      "role": "primary"
+    },
+    {
+      "kind": "entity",
+      "id": "Trork_Mauler",
+      "role": "primary"
+    }
+  ]
+}

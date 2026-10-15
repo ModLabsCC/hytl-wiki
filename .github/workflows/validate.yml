@@ -1,0 +1,25 @@
+name: Validate wiki content
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Use validator from the trusted base revision
+        env:
+          BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ]; then BASE="$(git rev-parse HEAD)"; fi
+          if ! git cat-file -e "$BASE:validator/validate.mjs"; then BASE="$(git rev-parse HEAD)"; fi
+          git show "$BASE:validator/validate.mjs" > /tmp/hytl-validate.mjs
+          node /tmp/hytl-validate.mjs .

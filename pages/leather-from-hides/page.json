@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "leather-from-hides",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "crafting",
+    "materials"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Ingredient_Hide_Light",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Ingredient_Leather_Light",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ingredient_Hide_Medium",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Ingredient_Leather_Medium",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ingredient_Hide_Heavy",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Ingredient_Leather_Heavy",
+      "role": "guide"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "finding-silver",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "materials",
+    "exploration"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Ore_Silver_Stone",
+      "role": "primary"
+    },
+    {
+      "kind": "zone",
+      "id": "Zone1_Tier2",
+      "role": "guide"
+    },
+    {
+      "kind": "zone",
+      "id": "Zone1_Tier3",
+      "role": "guide"
+    }
+  ]
+}
