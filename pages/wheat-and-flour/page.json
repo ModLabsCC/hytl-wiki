@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "wheat-and-flour",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "crafting",
+    "materials"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Plant_Seeds_Wheat",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Plant_Seeds_Wheat_Eternal",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Plant_Crop_Wheat_Item",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ingredient_Flour",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Bench_Farming",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Bench_Cooking",
+      "role": "guide"
+    }
+  ]
+}

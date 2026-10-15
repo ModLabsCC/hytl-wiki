@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "backpack-upgrades",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "equipment",
+    "crafting"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Upgrade_Backpack_1",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Upgrade_Backpack_2",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Upgrade_Backpack_3",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Upgrade_Backpack_4",
+      "role": "guide"
+    }
+  ]
+}

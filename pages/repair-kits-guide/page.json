@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "repair-kits-guide",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "equipment",
+    "crafting"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Tool_Repair_Kit_Iron",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Tool_Repair_Kit_Crude",
+      "role": "guide"
+    }
+  ]
+}

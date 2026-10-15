@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "teleporters-guide",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "exploration",
+    "crafting"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Teleporter",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Bench_Arcane",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Wood_Azure_Trunk",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Plant_Crop_Mana3",
+      "role": "guide"
+    }
+  ]
+}

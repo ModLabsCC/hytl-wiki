@@ -1,0 +1,711 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "url": "https://hytl.dev/zones/Zone1_Tier2",
+      "title": "Seedling Woods",
+      "revision": "sha256:ac9b2659900b4bf3bf2792ea458f179387b720ebb33a638f1c7ff7e6bf68a358",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/zones/Zone2_Tier2",
+      "title": "Badlands",
+      "revision": "sha256:549505720d74b472ade922c37e5f7f3956b05b0275de0d80ef1d6bc23883904a",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/zones/Zone3_Tier2",
+      "title": "Boreal Reach",
+      "revision": "sha256:ca6ad29c279f8f7a29081a48a3c476eb2d66f8f18e77083b67e61c0f06107b98",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/zones/Zone4_Tier4",
+      "title": "Cinder Wastes",
+      "revision": "sha256:1760ee5ab9ea19245656fb37af361f5fba2670fa3bd097f9180dd6ead4e199a8",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/zones/Zone1_Tier3",
+      "title": "The Fens",
+      "revision": "sha256:ee4d9bd0a590302a533546cc43a28dd3e5a4bcf27a0b23bb41d51569cb8685b2",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ore_Copper_Stone",
+      "title": "Copper Ore - Stone",
+      "revision": "sha256:09d9a30920ddf0fbfdb339f407bff65270603ece7d65c38bff9194df90f058bc",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ore_Iron_Stone",
+      "title": "Iron Ore - Stone",
+      "revision": "sha256:4c3fb176ba6e4172c4f2154f9650743607d6ae6a30875a8c97f4e4a1f9a6aa28",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Trork_Hunter",
+      "title": "Trork Hunter",
+      "revision": "sha256:765c0ce29fe6e0751f6b5c4505766f3c4ee966d2d1482e042186ebd89991ab7d",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Trork_Chieftain",
+      "title": "Trork Chieftain",
+      "revision": "sha256:eb485a35841de2e1d46d0214fbdc3750c808aee0c45711b6532e8f5bdba7e4db",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Trork_Mauler",
+      "title": "Trork Mauler",
+      "revision": "sha256:b85fcd90bb711f8aff3a9944d1efa5e67b13992771d26198ab94b79d7b898c50",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://cdn.hytale.com/5e7ba47d3c9a2a00106793a2_113___trork_camp.jpg",
+      "revision": "sha256:b5d848662f419de40f63868c6ca0a5d2205f855dd67ed95d5ddc10cd29f0a444",
+      "license": "Hytale editorial media permission (Content Creators FAQ); copyright retained by Hypixel Studios. Not CC BY.",
+      "retrievedAt": "2026-10-15T12:48:49.599Z",
+      "attribution": "© Hytale / Hypixel Studios. Official development screenshot; no endorsement implied.",
+      "title": "Trork camp — official Hytale screenshot",
+      "modifications": "Resized proportionally to 1600 × 900; re-encoded as PNG with metadata removed. No crop or compositing. Asset SHA256: ff7145aad5012be51e5b7073a395a46ba971e0b1ece8bd97f7f82c6b32e4e95c"
+    },
+    {
+      "url": "https://hytl.dev/zones/Zone2_Tier3",
+      "title": "Desolate Basin",
+      "revision": "sha256:ebc395104287da7d8a7988ab79265441090d138b0c8f325ad93a8521d0a957a7",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ore_Thorium_Sandstone",
+      "title": "Thorium Ore - Sandstone",
+      "revision": "sha256:28291f7c0cff90f5880ee61d1129931108c7162671feab4af353b0351bf3fbd0",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Hyena",
+      "title": "Hyena",
+      "revision": "sha256:9037121b1dea3b38e63e91baf8ded09bfb107f6c833497c0252e388ded3f94cd",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://cdn.hytale.com/5e7b9ecb50cbcd001176c5c1_11___z2_camels.png",
+      "revision": "sha256:634373462011c362c23f04561aefc3591346df294f8b64a1a8880f16c1ae9735",
+      "license": "Hytale editorial media permission (Content Creators FAQ); copyright retained by Hypixel Studios. Not CC BY.",
+      "retrievedAt": "2026-10-15T12:48:49.781Z",
+      "attribution": "© Hytale / Hypixel Studios. Official development screenshot; no endorsement implied.",
+      "title": "Camels — official Hytale screenshot",
+      "modifications": "Resized proportionally to 1600 × 900; re-encoded as PNG with metadata removed. No crop or compositing. Asset SHA256: e750c7bdc4c84ae4fc045b979203ea416a2e51f51eee2399dc6170d12e9beb53"
+    },
+    {
+      "url": "https://hytl.dev/zones/Zone3_Tier3",
+      "title": "The Everfrost",
+      "revision": "sha256:59661517d2ce1ccba126077933e38dee8611dacd7c2a87f165093c77dcff06cc",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ore_Cobalt_Slate",
+      "title": "Cobalt Ore - Slate",
+      "revision": "sha256:bf069f25287c1ee203894091a9c8b3d755d4aebca84e0a667106cc4fc06c14be",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Wolf_Black",
+      "title": "Black Wolf",
+      "revision": "sha256:c6a848fa61ba505f80f1e5b593bff4b14f635b5d5a21fb930595b8367afe2a95",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/zones/Zone4_Tier5",
+      "title": "Charred Woodlands",
+      "revision": "sha256:985e91934ca5acbdb413f0e2a0dbc7f6e5a2a7e29e9248dfbd41234379946210",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ingredient_Bar_Copper",
+      "title": "Copper Ingot",
+      "revision": "sha256:744b54ceae1e7e58a2c91a86a8c6f489fe9effe4eac7e35e26db1c258f8d513a",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ingredient_Bar_Iron",
+      "title": "Iron Ingot",
+      "revision": "sha256:657336f7da240eeaebdddc8958c9075df5333399d30bd23cabe4e23237280bab",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Bench_Furnace",
+      "title": "Furnace",
+      "revision": "sha256:250bc9c494ca11d304ad0a10b0883d5d74c5df0f6c130cbd25a6e1732acbb430",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://cdn.hytale.com/5e7ba03050cbcd001176c601_31___cave_explorer.png",
+      "revision": "sha256:a262a7ecf2c27b66136e858cf4a4df92d32e938ff5ab4882a3139e9376c01aa6",
+      "license": "Hytale editorial media permission (Content Creators FAQ); copyright retained by Hypixel Studios. Not CC BY.",
+      "retrievedAt": "2026-10-15T12:48:49.653Z",
+      "attribution": "© Hytale / Hypixel Studios. Official development screenshot; no endorsement implied.",
+      "title": "Cave explorer — official Hytale screenshot",
+      "modifications": "Resized proportionally to 1600 × 900; re-encoded as PNG with metadata removed. No crop or compositing. Asset SHA256: 9cb61abbb6c71e948be5463941f47445cd836da463e2c31f7046dd3a1d8c5f58"
+    },
+    {
+      "url": "https://hytl.dev/items/Ingredient_Bar_Thorium",
+      "title": "Thorium Ingot",
+      "revision": "sha256:1d78f3c14c340a437a72040808f0b70a2b9144a159eb5635bcb25e62b4eca9c0",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ingredient_Bar_Cobalt",
+      "title": "Cobalt Ingot",
+      "revision": "sha256:b152d37b32d0eaf40d21534e60b9c05deb5b511c581e1d1131965e48bb52b62a",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Weapon_Sword_Thorium",
+      "title": "Thorium Sword",
+      "revision": "sha256:f22d7450970d4cc31e66c69f8f840ab99c72602b036d0a39bde3c03680f6fc1e",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Weapon_Sword_Cobalt",
+      "title": "Cobalt Sword",
+      "revision": "sha256:0d70353337c2aa6f6914f29f903f002c973f39e849ea2732c931ac306ef3da8e",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ore_Adamantite_Magma",
+      "title": "Adamantite Ore - Magma",
+      "revision": "sha256:a59bc1a0b34093b5bf95e9728f03950ccffda8a43f90b093ade212e1b778d477",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ingredient_Bar_Adamantite",
+      "title": "Adamantite Ingot",
+      "revision": "sha256:885a8d5e3deba57aeed5bd873934cf3abdb64ce76ce28a288cd1311dc0297e62",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Weapon_Sword_Adamantite",
+      "title": "Adamantite Sword",
+      "revision": "sha256:3be28a208d8500bb6935fe73bbbcf11e4d0568b29679f2b9a8c82e61852a3c46",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytale.com/news/2026/1/hytale-patch-notes-update-2",
+      "revision": "sha256:459c0f7394acdb882f123c003e201c5787a85870058bb4f2dad50f577c8ce800",
+      "retrievedAt": "2026-10-15T13:46:12.188920+00:00",
+      "license": "Factual reference to an official Hytale post; copyright retained by Hypixel Studios. Independently written summary, no copied article.",
+      "attribution": "Hytale Team / Hypixel Studios",
+      "modifications": "Original, selective summary of the dated announcement; future plans remain labelled as plans."
+    },
+    {
+      "url": "https://hytl.dev/items/Bench_WorkBench",
+      "title": "Workbench",
+      "revision": "sha256:58ba82a1b030d45bcec5632fa04f2351c7e6fc1d827b1653965ed1d6bdeab5a6",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Bench_Weapon",
+      "title": "Blacksmith's Anvil",
+      "revision": "sha256:286574e35dbe46f4e6dd26fe25ead5c296156dda981f1740e9f5e5bc768e20d3",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Bench_Armour",
+      "title": "Armorer's Workbench",
+      "revision": "sha256:6f15c5707e34b888e22be3809caa0566247d1647fc6561f091ac131239c59bf8",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Bench_Tannery",
+      "title": "Tanning Rack",
+      "revision": "sha256:e9090809cb1ce069bee01866a73729dacef5af58a76b0fd61ac75abc374d5daa",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Bench_Furniture",
+      "title": "Furniture Workbench",
+      "revision": "sha256:7a832cc7a6742180bb86d3f0591e09b4976d36fff10c6e8748c59a59dbfbbb13",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Bench_Farming",
+      "title": "Farmer's Workbench",
+      "revision": "sha256:a434658cec340317742aac42768aeb34854d2f3d13b8c3941a17c2e6677c24f9",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://cdn.hytale.com/5e7ba29b50cbcd001176c699_83___crafted_sword.jpg",
+      "revision": "sha256:66fb21aeef7af480622f5ae897ec0b6eaef4dc2bf17446ff4b55d7712cf31178",
+      "license": "Hytale editorial media permission (Content Creators FAQ); copyright retained by Hypixel Studios. Not CC BY.",
+      "retrievedAt": "2026-10-15T12:48:49.684Z",
+      "attribution": "© Hytale / Hypixel Studios. Official development screenshot; no endorsement implied.",
+      "title": "Crafted sword — official Hytale screenshot",
+      "modifications": "Resized proportionally to 1600 × 900; re-encoded as PNG with metadata removed. No crop or compositing. Asset SHA256: 1b71029ca48e06e4ea226ad0e597954dcca93a612a30a4b8a38bfaeb0776c626"
+    },
+    {
+      "url": "https://hytl.dev/items/Upgrade_Backpack_1",
+      "title": "Unlock Backpack",
+      "revision": "sha256:b2d4cfaecb7a48928c39ffc0a1c67a96adffe0450634e590d08ad621b4a1e7fe",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Upgrade_Backpack_2",
+      "title": "Backpack Upgrade I",
+      "revision": "sha256:365efce461509f2ce9a2f92f8b6e10cdf8d0c9d11cbd3810d2e43b1865c87ae3",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Upgrade_Backpack_3",
+      "title": "Backpack Upgrade II",
+      "revision": "sha256:1d56b92ecb420f0eba1407983078464077df5eb387cc90d4a240889cbbfa6b82",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Upgrade_Backpack_4",
+      "title": "Backpack Upgrade III",
+      "revision": "sha256:5f6cbef5f8b543f856a7ae1a3591b06c42fee7a0cd83dd3cde2f24d451a1fee0",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Teleporter",
+      "title": "Teleporter",
+      "revision": "sha256:ad06452981b1e5180326589adb0d610ea1e8f35ae62425bfa9b2310c1f6012df",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Bench_Arcane",
+      "title": "Arcanist's Workbench",
+      "revision": "sha256:30ef5b2e0f7e757e0f7dfea8947a912f1882af48d6dc3a85b9491aca128cebeb",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Wood_Azure_Trunk",
+      "title": "Azure Log",
+      "revision": "sha256:747dc33aa6e922933c9463a14cbf63d2dc3539c38b31e09e30d7b8cacedca363",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Plant_Crop_Mana3",
+      "title": "Azure Kelp",
+      "revision": "sha256:a95e7d8ce77a5a8c1c7ecf1c6f380d9462d2793bce5009c157277a4de29cc810",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Tool_Repair_Kit_Iron",
+      "title": "Repair Kit",
+      "revision": "sha256:5fa6f7b8ea7b733a7157e97097eec46efe8829543f915fdc1c1ff4f358a89ee9",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Tool_Repair_Kit_Crude",
+      "title": "Crude Repair Kit",
+      "revision": "sha256:d10cc6d8e48ec08f6163add29550abf56e94e12198251fb9357d2ec3a8b4cec7",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Plant_Seeds_Wheat",
+      "title": "Wheat Seed Bag",
+      "revision": "sha256:6d14685ebc8743bc21bb85a9df393238aabeccbedf7d2008d5ca6c6948da2cad",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Plant_Seeds_Wheat_Eternal",
+      "title": "Wheat Seed Bag (Eternal)",
+      "revision": "sha256:da092adeec94238bdd6c9ded0d947feffbec8da8c8e66effc72c8ba0b378935f",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Plant_Crop_Wheat_Item",
+      "title": "Wheat",
+      "revision": "sha256:7e31ed81d3091e3f64c471562bb0fe86e9ac8bb47307d214f69a4488b12ef954",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ingredient_Flour",
+      "title": "Flour",
+      "revision": "sha256:71434ce95faa314fc079429c13e7c4d934eb0b3f9a08fb197025e43d95cc2693",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Bench_Cooking",
+      "title": "Chef's Stove",
+      "revision": "sha256:907235d2969172e7a2a507cd4304d24173642415db305dea9cb2e16c63068db7",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Furniture_Tavern_Table",
+      "title": "Tavern Table",
+      "revision": "sha256:69584168da54a9650347f7d56523a4f12dc825dfa21f82d2e5b100303a34e5ec",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Furniture_Tavern_Chair",
+      "title": "Tavern Chair",
+      "revision": "sha256:7b6576c32b13ea8240520624707031e8b4cc5ee0a2b5f7dab490e3689ac1fd8c",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Furniture_Tavern_Candle",
+      "title": "Tavern Candle",
+      "revision": "sha256:f742ea11ea21d3201fc72231ea7a2b00ea51f92831f43e3e22ec9286219f2d83",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Furniture_Tavern_Bed",
+      "title": "Tavern Bed",
+      "revision": "sha256:7bcf0482b473f580073e7568ef15e68875370a6cb717ca8689b6d6b2c24f42d4",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Bench_Builders",
+      "title": "Builder's Workbench",
+      "revision": "sha256:a788c10759ebf59d6df3eff36697d568693573e655187c2c2994b332e5be38a9",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytale.com/news/2026/3/hytale-patch-notes-update-4",
+      "revision": "sha256:89a2605a403ed41a16125d609ce3c5fb7e0484a7bf73c2659966242e6dcb524f",
+      "retrievedAt": "2026-10-15T13:46:12.388170+00:00",
+      "license": "Factual reference to an official Hytale post; copyright retained by Hypixel Studios. Independently written summary, no copied article.",
+      "attribution": "Hytale Team / Hypixel Studios",
+      "modifications": "Original, selective summary of the dated announcement; future plans remain labelled as plans."
+    },
+    {
+      "url": "https://hytl.dev/entities/Bear_Grizzly",
+      "title": "Grizzly Bear",
+      "revision": "sha256:54a45f551304802c977a9eb1f38f63b102a5533119b6fb44cda5f305c83a13b1",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ingredient_Hide_Heavy",
+      "title": "Heavy Hide",
+      "revision": "sha256:3072d9dd02900631abaaaed3cab713ae900ab63d2065ecf09d95b528598d86ea",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ingredient_Hide_Medium",
+      "title": "Medium Hide",
+      "revision": "sha256:dab6ecb38283090fbd57ab3465d702f4832dd3b3c1992aa47c5e3cf14d246980",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Bison",
+      "title": "Bison",
+      "revision": "sha256:d3d96c45ebfdd4cf24e7d4d30630a252468ed3403416a2cd54f5d738b7c07cf5",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Boar",
+      "title": "Boar",
+      "revision": "sha256:751e5a94986792bc6eed445a00679640faedc40c80e0758cf58fc095f38ff6e6",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Cow",
+      "title": "Cow",
+      "revision": "sha256:2c900df82262aaaa82589a9dfb97a7e07c00442999b6c90ca657d2a8e421f04a",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Horse",
+      "title": "Horse",
+      "revision": "sha256:36427dcf3505ad003ea184ab90779251ef3f37b8e68a2c8af3a3abce16bb8b9e",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Warthog",
+      "title": "Warthog",
+      "revision": "sha256:4b739a725aab2bf7e9541ed08324a3d8c7e34d10b47a5d0fba5ef378222c0a50",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Ingredient_Chitin_Sturdy",
+      "title": "Sturdy Chitin",
+      "revision": "sha256:6edb714ebc7005efe14c2ad83c12dc12056392a5cb5b43d228aa5d734719f1cd",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Scarak_Defender",
+      "title": "Scarak Defender",
+      "revision": "sha256:3d51c4031aef97ffd0d4e67ffc52d86aa8a3216226235627c936bee9999a49ec",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Scarak_Fighter",
+      "title": "Scarak Fighter",
+      "revision": "sha256:00a1b3d1d56e73c63ee366659cf183b60a6fb6e404aafe38f1b1f72c6c9d41b8",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Scarak_Seeker",
+      "title": "Scarak Seeker",
+      "revision": "sha256:ab8e0f619b3105e5d54bc6790843cfb29d9fded5c87c126ff2856a97bd849f57",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/entities/Scarak_Louse",
+      "title": "Scarak Louse",
+      "revision": "sha256:eb446ebc715a080ec63c9ce577b8fc39e249051dd029d36212340bc29520ae0c",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Bench_Memories",
+      "title": "The Heart of Orbis",
+      "revision": "sha256:69a8453480d0bb91d0f92448a19c1ea212fe845847b6a6d3277987bfda2309a4",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytale.com/news/2026/8/update-6-patch-notes",
+      "revision": "sha256:93b5ee161fe32e46a547ef44285ec1de1a9d7571423e9e07a163654dd94326f5",
+      "retrievedAt": "2026-10-15T13:46:12.481751+00:00",
+      "license": "Factual reference to an official Hytale post; copyright retained by Hypixel Studios. Independently written summary, no copied article.",
+      "attribution": "Hytale Team / Hypixel Studios",
+      "modifications": "Original, selective summary of the dated announcement; future plans remain labelled as plans."
+    },
+    {
+      "url": "https://hytl.dev/zones/ForgottenTemple",
+      "title": "Forgotten Temple",
+      "revision": "sha256:169a57517f104b23cee99891e223adc59d64d78cd73f565178ec1941ecc2e6fd",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytale.com/news/2026/10/2026-10-12-chapter-i-out-of-the-breach/",
+      "revision": "sha256:40509aed0fd4c7b6434b02a097e722fd0245fb26bc21de3e36090eb001ae6aa0",
+      "retrievedAt": "2026-10-15T13:46:12.843156+00:00",
+      "license": "Factual reference to an official Hytale post; copyright retained by Hypixel Studios. Independently written summary, no copied article.",
+      "attribution": "Hytale Team / Hypixel Studios",
+      "modifications": "Original, selective summary of the dated announcement; future plans remain labelled as plans."
+    },
+    {
+      "url": "https://hytale.com/news/2026/7/community-spotlight-worldgen-v2",
+      "revision": "sha256:1a1634985fe1ffc95b2b1d3edb87bab675612d08ed6dcf5d3cd8cdda1eb05566",
+      "retrievedAt": "2026-10-15T13:46:12.548933+00:00",
+      "license": "Factual reference to an official Hytale post; copyright retained by Hypixel Studios. Independently written summary, no copied article.",
+      "attribution": "Hytale Team / Hypixel Studios",
+      "modifications": "Original, selective summary of the dated announcement; future plans remain labelled as plans."
+    },
+    {
+      "url": "https://hytl.dev/items/Weapon_Sword_Copper",
+      "title": "Copper Sword",
+      "revision": "sha256:44496405bcfbe9649364d9e9473d9c4e6d4783a70744c8881ec1ddee9fe6bddb",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    },
+    {
+      "url": "https://hytl.dev/items/Weapon_Sword_Iron",
+      "title": "Iron Sword",
+      "revision": "sha256:57ca44b09c00d7b24ead42e75065c0072362b3cb607f1863df064c01b5076f5c",
+      "retrievedAt": "2026-10-15T13:44:32.669108+00:00",
+      "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose or media reproduced.",
+      "attribution": "Hytale game-file records, observed in the HYTL.DEV release index",
+      "modifications": "Original editorial explanation. Current live components may show later indexed values."
+    }
+  ]
+}

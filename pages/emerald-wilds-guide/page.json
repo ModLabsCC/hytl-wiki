@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "emerald-wilds-guide",
+  "sourceLocale": "en",
+  "kind": "zone",
+  "tags": [
+    "exploration",
+    "materials",
+    "creatures"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "zone",
+      "id": "Zone1_Tier2",
+      "role": "primary"
+    },
+    {
+      "kind": "zone",
+      "id": "Zone1_Tier3",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ore_Copper_Stone",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ore_Iron_Stone",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Trork_Hunter",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Trork_Chieftain",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Trork_Mauler",
+      "role": "guide"
+    }
+  ]
+}

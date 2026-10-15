@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "world-generation",
+  "sourceLocale": "en",
+  "kind": "reference",
+  "tags": [
+    "exploration"
+  ],
+  "categories": [],
+  "relations": []
+}

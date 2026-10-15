@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "whisperfrost-frontiers-guide",
+  "sourceLocale": "en",
+  "kind": "zone",
+  "tags": [
+    "exploration",
+    "materials",
+    "creatures"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "zone",
+      "id": "Zone3_Tier2",
+      "role": "primary"
+    },
+    {
+      "kind": "zone",
+      "id": "Zone3_Tier3",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ore_Cobalt_Slate",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Wolf_Black",
+      "role": "guide"
+    }
+  ]
+}

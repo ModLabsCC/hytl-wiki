@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "copper-and-iron",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "materials",
+    "crafting",
+    "exploration"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Ingredient_Bar_Copper",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Ingredient_Bar_Iron",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ore_Copper_Stone",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ore_Iron_Stone",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Bench_Furnace",
+      "role": "guide"
+    }
+  ]
+}

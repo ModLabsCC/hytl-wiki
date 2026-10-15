@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "metal-swords",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "equipment",
+    "crafting"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Weapon_Sword_Copper",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Weapon_Sword_Iron",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Weapon_Sword_Thorium",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Weapon_Sword_Cobalt",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Weapon_Sword_Adamantite",
+      "role": "guide"
+    }
+  ]
+}

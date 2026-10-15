@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "tavern-furniture",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "crafting"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Furniture_Tavern_Table",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Furniture_Tavern_Chair",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Furniture_Tavern_Candle",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Furniture_Tavern_Bed",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Bench_Builders",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Bench_Furniture",
+      "role": "guide"
+    }
+  ]
+}

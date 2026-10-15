@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "workstations-guide",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "crafting",
+    "getting-started"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Bench_WorkBench",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Bench_Furnace",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Bench_Weapon",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Bench_Armour",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Bench_Tannery",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Bench_Furniture",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Bench_Farming",
+      "role": "guide"
+    }
+  ]
+}

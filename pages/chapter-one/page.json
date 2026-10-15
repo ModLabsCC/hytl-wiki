@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "chapter-one",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "exploration",
+    "getting-started"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "zone",
+      "id": "ForgottenTemple",
+      "role": "primary"
+    }
+  ]
+}
