@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "dedicated-server-setup",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "servers",
+    "getting-started"
+  ],
+  "categories": [
+    "servers"
+  ],
+  "relations": [
+    {
+      "kind": "wiki",
+      "id": "commands-and-permissions",
+      "role": "related"
+    },
+    {
+      "kind": "wiki",
+      "id": "server-backups-and-updates",
+      "role": "related"
+    }
+  ]
+}

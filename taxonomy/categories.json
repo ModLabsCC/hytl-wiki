@@ -75,5 +75,16 @@
       "en": "Creature guides, recorded spawn regions and useful drops.",
       "de": "Kreaturen-Guides, erfasste Spawn-Regionen und nützliche Drops."
     }
+  },
+  {
+    "id": "servers",
+    "labels": {
+      "en": "Servers & commands",
+      "de": "Server & Befehle"
+    },
+    "description": {
+      "en": "Set up a server, find commands and manage backups and updates.",
+      "de": "Server einrichten, Befehle nachschlagen sowie Backups und Updates verwalten."
+    }
   }
 ]

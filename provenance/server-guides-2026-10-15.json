@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "url": "https://support.hytale.com/hc/en-us/articles/45326769420827-Hytale-Server-Manual",
+      "title": "Hytale Server Manual",
+      "revision": "sha256:974be931fd6386fca693a0aa58083c8e0f406023e1dd788460735199058425f3",
+      "retrievedAt": "2026-10-15T15:24:02.116810+00:00",
+      "license": "Factual reference; copyright retained by Hypixel Studios. Original summary, no source prose or media reproduced.",
+      "attribution": "Hypixel Studios / Hytale Team",
+      "modifications": "Independently written instructions; source checked on 15 October 2026."
+    },
+    {
+      "url": "https://support.hytale.com/hc/en-us/articles/45324238811291-Joining-Friends",
+      "title": "Joining Friends",
+      "revision": "sha256:8336c7a956f84fffe58b7396f14c3e61a573680a27ebdf2c5768e28b6dcddb21",
+      "retrievedAt": "2026-10-15T15:24:02.214875+00:00",
+      "license": "Factual reference; copyright retained by Hypixel Studios. Original summary, no source prose or media reproduced.",
+      "attribution": "Hypixel Studios / Hytale Team",
+      "modifications": "Independently written instructions; source checked on 15 October 2026."
+    },
+    {
+      "url": "https://hytale.com/news/2026/5/update-5-patch-notes",
+      "title": "Update 5: command suggestions and permissions",
+      "revision": "sha256:cef62caaf06f4bd59ad44603fefb1a552468f49d4da1eaec9997f92f838bea71",
+      "retrievedAt": "2026-10-15T15:24:02.305780+00:00",
+      "license": "Factual reference; copyright retained by Hypixel Studios. Original summary, no source prose or media reproduced.",
+      "attribution": "Hypixel Studios / Hytale Team",
+      "modifications": "Independently written instructions; source checked on 15 October 2026."
+    },
+    {
+      "url": "https://hytale.com/download",
+      "title": "Installed Hytale Server 0.7.2, release revision d769dc3d57881261a62858e1394f0e4de9a21eca",
+      "revision": "sha256:23f71f03763422ce7c04df191db49cd0e7d87d43b12baad75c43fdc202410aff",
+      "retrievedAt": "2026-10-15T15:24:02.400298+00:00",
+      "license": "Factual reference to locally installed Hytale server command definitions. Original game code is not redistributed.",
+      "attribution": "Hypixel Studios; installed official release server JAR",
+      "modifications": "Read-only inspection of command registrations, argument types, bundled launchers and --help output. No server world was started. Evidence lists the inspected entries in provenance/server-guides-2026-10-15.json. Checked entries (SHA-256): OpAddCommand.class=0f5ce003518acf2007cbf0c68b3cac51125874214311c9738c79a5388401a117; OpSelfCommand.class=d783cc7bc48deb261a3f8837e67d39b6d1906019da3b6d249b7082a4cd0a0323; OpRemoveCommand.class=e1cb152ee88d7e1c1636de08056892990ea170be85bc9819b0b6e06c97aa0766; WhitelistCommand.class=a52f721ff3c507e35b4b26eb51edbbe20692fdc95499c2ae204c0d816ca0123a; GameModeCommand.class=7e63358a1f9a1727cda8418230fc380935cfab42d252f7071ea04fbf97617c31; GiveCommand.class=58fef3e7edab5aaf9d604c081734c5939acffd09d7d440b15da3e90587c489ef; BackupCommand.class=60fe8cb95207468b0a8a52aff3a49e069a9e0547f24e4ef11b6966065b421baa; HelpCommand.class=f59ed49b3c39206c04b107bd826c30753974eb279101634835de09b69755b79b; StopCommand.class=d0bd84555f7af6f4e2c84c7c7db992e4c12189bb9bcf13aa2be04f2d85c8d4c2; KickCommand.class=4de371f595e8ab992eb969879282c93551e74e62851d06a9e90e20ef5a2deb38; AuthPersistenceCommand.class=66b5ab03e57def044bba2f9e2c892df4541b599cd40856d0942a9f9c4c486735; GameMode.class=8af1299ac50230fe8c07ff1ac2d738a3089337570767c39a2a464c4ef9e33195; start.sh=f3499db244f776f209db0711b15319646640fdb67701dd0f827943911a24c252; start.bat=ba6cc24f94501815059b1ca6472840792c78c7108e3dd387f2e1e01a264889b1; MANIFEST.MF=4f80c099110e53e9aaebae8a6b37eafb699fd62db592553b5b9c45ea8a6b14b5; ServerAuthManager.class=6f5ac24cb80325c410191286c67050e93ab0fd55a17cf5b26e13f097c641df3c; EncryptedAuthCredentialStoreProvider.class=749884831f73898e983d7dedabb8d4efc74c5aa28154ccdf951e0ec7398f3a9b; AuthPersistenceCommand$SetPersistenceVariant.class=621eb0a05471fc423946b0797cc5b444ae6dd82dbf61ab7b14a429db558d3d6b"
+    }
+  ]
+}
