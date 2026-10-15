@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "url": "https://cdn.hytale.com/5e7ba47d3c9a2a00106793a2_113___trork_camp.jpg",
+      "title": "Trork camp — official Hytale screenshot",
+      "revision": "sha256:b5d848662f419de40f63868c6ca0a5d2205f855dd67ed95d5ddc10cd29f0a444",
+      "license": "Hytale editorial media permission (Content Creators FAQ); copyright retained by Hypixel Studios. Not CC BY.",
+      "retrievedAt": "2026-10-15T12:48:49.599Z",
+      "attribution": "© Hytale / Hypixel Studios. Official development screenshot; no endorsement implied.",
+      "modifications": "Resized proportionally to 1600 × 900; re-encoded as PNG with metadata removed. No crop or compositing. Asset SHA256: ff7145aad5012be51e5b7073a395a46ba971e0b1ece8bd97f7f82c6b32e4e95c"
+    },
+    {
+      "url": "https://cdn.hytale.com/5e7ba03050cbcd001176c601_31___cave_explorer.png",
+      "title": "Cave explorer — official Hytale screenshot",
+      "revision": "sha256:a262a7ecf2c27b66136e858cf4a4df92d32e938ff5ab4882a3139e9376c01aa6",
+      "license": "Hytale editorial media permission (Content Creators FAQ); copyright retained by Hypixel Studios. Not CC BY.",
+      "retrievedAt": "2026-10-15T12:48:49.653Z",
+      "attribution": "© Hytale / Hypixel Studios. Official development screenshot; no endorsement implied.",
+      "modifications": "Resized proportionally to 1600 × 900; re-encoded as PNG with metadata removed. No crop or compositing. Asset SHA256: 9cb61abbb6c71e948be5463941f47445cd836da463e2c31f7046dd3a1d8c5f58"
+    },
+    {
+      "url": "https://cdn.hytale.com/5e7ba29b50cbcd001176c699_83___crafted_sword.jpg",
+      "title": "Crafted sword — official Hytale screenshot",
+      "revision": "sha256:66fb21aeef7af480622f5ae897ec0b6eaef4dc2bf17446ff4b55d7712cf31178",
+      "license": "Hytale editorial media permission (Content Creators FAQ); copyright retained by Hypixel Studios. Not CC BY.",
+      "retrievedAt": "2026-10-15T12:48:49.684Z",
+      "attribution": "© Hytale / Hypixel Studios. Official development screenshot; no endorsement implied.",
+      "modifications": "Resized proportionally to 1600 × 900; re-encoded as PNG with metadata removed. No crop or compositing. Asset SHA256: 1b71029ca48e06e4ea226ad0e597954dcca93a612a30a4b8a38bfaeb0776c626"
+    },
+    {
+      "url": "https://cdn.hytale.com/5e7b9ecb50cbcd001176c5c1_11___z2_camels.png",
+      "title": "Camels — official Hytale screenshot",
+      "revision": "sha256:634373462011c362c23f04561aefc3591346df294f8b64a1a8880f16c1ae9735",
+      "license": "Hytale editorial media permission (Content Creators FAQ); copyright retained by Hypixel Studios. Not CC BY.",
+      "retrievedAt": "2026-10-15T12:48:49.781Z",
+      "attribution": "© Hytale / Hypixel Studios. Official development screenshot; no endorsement implied.",
+      "modifications": "Resized proportionally to 1600 × 900; re-encoded as PNG with metadata removed. No crop or compositing. Asset SHA256: e750c7bdc4c84ae4fc045b979203ea416a2e51f51eee2399dc6170d12e9beb53"
+    },
+    {
+      "url": "https://hytale.com/news/2018/12/hytale-faq",
+      "title": "Content Creators FAQ — permission for Hytale coverage",
+      "revision": "sha256:7de1f2fbecbb441cd0fdca457cc2cba649da38c671909425f533bd9693341c9c",
+      "license": "Official media reuse guidance; artwork copyright is retained by its rights holders.",
+      "retrievedAt": "2026-10-15T12:52:14.210Z",
+      "attribution": "Hytale Team; published 13 December 2018, inspected 15 October 2026.",
+      "modifications": "Permission checked for editorial illustrations only. See also https://hytale.com/news/2019/7/july-2019-development-update . No general Creative Commons grant is asserted."
+    }
+  ]
+}
