@@ -40,5 +40,19 @@
       "en": "Exploration",
       "de": "Erkundung"
     }
+  },
+  {
+    "id": "servers",
+    "labels": {
+      "en": "Servers",
+      "de": "Server"
+    }
+  },
+  {
+    "id": "commands",
+    "labels": {
+      "en": "Commands",
+      "de": "Befehle"
+    }
   }
 ]

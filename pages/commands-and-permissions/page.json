@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "commands-and-permissions",
+  "sourceLocale": "en",
+  "kind": "reference",
+  "tags": [
+    "servers",
+    "commands"
+  ],
+  "categories": [
+    "servers"
+  ],
+  "relations": [
+    {
+      "kind": "wiki",
+      "id": "dedicated-server-setup",
+      "role": "related"
+    },
+    {
+      "kind": "wiki",
+      "id": "server-backups-and-updates",
+      "role": "related"
+    }
+  ]
+}
