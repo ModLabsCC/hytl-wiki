@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "adamantite-equipment",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "equipment",
+    "crafting",
+    "materials"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Ore_Adamantite_Magma",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Ingredient_Bar_Adamantite",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Weapon_Sword_Adamantite",
+      "role": "guide"
+    }
+  ]
+}

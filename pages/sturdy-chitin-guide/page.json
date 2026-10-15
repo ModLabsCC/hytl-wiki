@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "sturdy-chitin-guide",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "materials",
+    "creatures"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Ingredient_Chitin_Sturdy",
+      "role": "primary"
+    },
+    {
+      "kind": "entity",
+      "id": "Scarak_Defender",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Scarak_Fighter",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Scarak_Seeker",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Scarak_Louse",
+      "role": "guide"
+    }
+  ]
+}

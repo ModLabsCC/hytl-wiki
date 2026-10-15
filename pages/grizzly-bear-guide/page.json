@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "grizzly-bear-guide",
+  "sourceLocale": "en",
+  "kind": "entity",
+  "tags": [
+    "creatures",
+    "materials"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "entity",
+      "id": "Bear_Grizzly",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Ingredient_Hide_Heavy",
+      "role": "guide"
+    }
+  ]
+}

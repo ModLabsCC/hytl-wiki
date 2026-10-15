@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "memories-and-heart",
+  "sourceLocale": "en",
+  "kind": "mechanic",
+  "tags": [
+    "exploration",
+    "creatures"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Bench_Memories",
+      "role": "primary"
+    },
+    {
+      "kind": "entity",
+      "id": "Bear_Grizzly",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Plant_Seeds_Wheat_Eternal",
+      "role": "guide"
+    }
+  ]
+}

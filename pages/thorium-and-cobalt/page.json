@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "thorium-and-cobalt",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "materials",
+    "crafting",
+    "exploration"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Ore_Thorium_Sandstone",
+      "role": "primary"
+    },
+    {
+      "kind": "item",
+      "id": "Ore_Cobalt_Slate",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ingredient_Bar_Thorium",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ingredient_Bar_Cobalt",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Weapon_Sword_Thorium",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Weapon_Sword_Cobalt",
+      "role": "guide"
+    }
+  ]
+}

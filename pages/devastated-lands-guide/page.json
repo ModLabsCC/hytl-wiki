@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "devastated-lands-guide",
+  "sourceLocale": "en",
+  "kind": "zone",
+  "tags": [
+    "exploration",
+    "materials"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "zone",
+      "id": "Zone4_Tier4",
+      "role": "primary"
+    },
+    {
+      "kind": "zone",
+      "id": "Zone4_Tier5",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ore_Copper_Stone",
+      "role": "guide"
+    },
+    {
+      "kind": "item",
+      "id": "Ore_Iron_Stone",
+      "role": "guide"
+    }
+  ]
+}

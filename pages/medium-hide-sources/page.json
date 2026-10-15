@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "medium-hide-sources",
+  "sourceLocale": "en",
+  "kind": "guide",
+  "tags": [
+    "materials",
+    "creatures"
+  ],
+  "categories": [],
+  "relations": [
+    {
+      "kind": "item",
+      "id": "Ingredient_Hide_Medium",
+      "role": "primary"
+    },
+    {
+      "kind": "entity",
+      "id": "Bison",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Boar",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Cow",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Horse",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Warthog",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Wolf_Black",
+      "role": "guide"
+    },
+    {
+      "kind": "entity",
+      "id": "Hyena",
+      "role": "guide"
+    }
+  ]
+}
