@@ -21,7 +21,7 @@ All four images were visually reviewed, proportionally reduced to 1600 × 900 an
 
 Four original gameplay screenshots were supplied for publication in the Chapter I guide and its Goblin Lab subpage. They are excluded from the article text's CC BY grant; Hytale artwork retains its original rights. Each was proportionally resized to 1600 × 900, stripped of metadata and encoded as canonical PNG without cropping or compositing. Original and asset hashes are recorded below; localized captions and source records accompany every image.
 
-- `Hytale2026-10-15_16-12-25.png` (original SHA-256 `dcc488afb79b022140147b9eee27d29da95e4ddbbed171fb16fde7e67b0ebb10`) → `assets/008005c8c21cbc28213f044f30959cda687ff9e6b498174f00241a0cd1d671ae.png`.
-- `Hytale2026-10-15_16-12-53.png` (original SHA-256 `6af1f864e8a0ad1f1b295bf6261e05a59ec20df656e5ab282704c503ec2c2a61`) → `assets/0904e94a8de3d01cde5dce2a9b5388ad06cc3a0bab09bb20aab0e6dd91f4e816.png`.
-- `Hytale2026-10-15_16-12-43.png` (original SHA-256 `04c44461d26fbf2b8486afd2d8d93318e6403b46c93ad56c632ef0149e998906`) → `assets/7d55c0970994adcba29fce84f9609fd64ae410444cd7a8af7bb86bd9ab27faf6.png`.
-- `Hytale2026-10-15_16-13-00.png` (original SHA-256 `d0fea9c451ae14c57ba9264eba84117faa690976d0ab2f7f31a8242dcc72bc7e`) → `assets/a9a68e28015a31ab7efbd2e0770f8cb9d10aaf372f61df2c052ebcf369f3714a.png`.
+- `Hytale2026-10-15_16-12-25.png` (original SHA-256 `dcc488afb79b022140147b9eee27d29da95e4ddbbed171fb16fde7e67b0ebb10`) → `assets/09b91975843daff720bb252ed4fccf6aeb5d495c10ce89597ca42ef9859f0911.png`.
+- `Hytale2026-10-15_16-12-53.png` (original SHA-256 `6af1f864e8a0ad1f1b295bf6261e05a59ec20df656e5ab282704c503ec2c2a61`) → `assets/912354c7a25120573ca864f1218059f04e98e39cc1cd1cc4ca21c8617c0a9490.png`.
+- `Hytale2026-10-15_16-12-43.png` (original SHA-256 `04c44461d26fbf2b8486afd2d8d93318e6403b46c93ad56c632ef0149e998906`) → `assets/630ffafc7f9419e5821d74d046545fe6d86aa67984bbefd5dc9e9fd2c66c4eff.png`.
+- `Hytale2026-10-15_16-13-00.png` (original SHA-256 `d0fea9c451ae14c57ba9264eba84117faa690976d0ab2f7f31a8242dcc72bc7e`) → `assets/e3e5efbad5394bec49620b8c9bc1cac835c0f19d10980a0211fa7a7aae4abb45.png`.

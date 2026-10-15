@@ -27,7 +27,7 @@ Look for the scrap-metal structure built into a temple tower. The entrance in th
   "media": [
     {
       "type": "image",
-      "src": "/wiki-assets/008005c8c21cbc28213f044f30959cda687ff9e6b498174f00241a0cd1d671ae.png",
+      "src": "/wiki-assets/09b91975843daff720bb252ed4fccf6aeb5d495c10ce89597ca42ef9859f0911.png",
       "alt": "Scrap-metal entrance built into a vine-covered tower at the Forgotten Temple",
       "caption": "The Goblin Lab entrance at the Forgotten Temple. Community gameplay screenshot, 15 October 2026.",
       "source": {
