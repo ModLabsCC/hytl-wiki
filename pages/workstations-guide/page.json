@@ -7,7 +7,9 @@
     "crafting",
     "getting-started"
   ],
-  "categories": [],
+  "categories": [
+    "crafting"
+  ],
   "relations": [
     {
       "kind": "item",

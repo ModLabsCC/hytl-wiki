@@ -7,7 +7,9 @@
     "exploration",
     "creatures"
   ],
-  "categories": [],
+  "categories": [
+    "getting-started"
+  ],
   "relations": [
     {
       "kind": "item",

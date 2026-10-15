@@ -7,7 +7,9 @@
     "exploration",
     "getting-started"
   ],
-  "categories": [],
+  "categories": [
+    "chapters"
+  ],
   "relations": [
     {
       "kind": "zone",

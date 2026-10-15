@@ -7,7 +7,9 @@
     "creatures",
     "materials"
   ],
-  "categories": [],
+  "categories": [
+    "creatures"
+  ],
   "relations": [
     {
       "kind": "entity",
