@@ -3,75 +3,80 @@ hytlMarkdown: 1
 locale: en
 title: "Chapter I: where to start"
 slug: exploration/chapter-one
-description: "Chapter I: Out of the Breach was released for Exploration Mode on
-  12 October 2026. The official release post directs players to the Forgotten
-  Temple and its new Goblin Lab, on either an existing Exploration save or a new
-  one."
+description: "Find the Goblin Lab, restore its power, and follow the chapter objectives. A separate spoiler guide covers lab upgrades and The Deepworks."
 status: complete
 sources:
-  - url: https://hytl.dev/zones/ForgottenTemple
-    title: Forgotten Temple
-    revision: sha256:169a57517f104b23cee99891e223adc59d64d78cd73f565178ec1941ecc2e6fd
-    retrievedAt: 2026-10-15T13:44:32.669108+00:00
-    license: Factual game-data reference; Hytale assets retain their original
-      rights. No source prose or media reproduced.
-    attribution: Hytale game-file records, observed in the HYTL.DEV release index
-    modifications: Original editorial explanation. Current live components may show
-      later indexed values.
-  - url: https://hytale.com/news/2026/10/2026-10-12-chapter-i-out-of-the-breach/
-    revision: sha256:40509aed0fd4c7b6434b02a097e722fd0245fb26bc21de3e36090eb001ae6aa0
-    retrievedAt: 2026-10-15T13:46:12.843156+00:00
-    license: Factual reference to an official Hytale post; copyright retained by
-      Hypixel Studios. Independently written summary, no copied article.
-    attribution: Hytale Team / Hypixel Studios
-    modifications: Original, selective summary of the dated announcement; future
-      plans remain labelled as plans.
+  - {"url": "https://hytale.com/news/2026/10/2026-10-12-chapter-i-out-of-the-breach/", "revision": "sha256:c8332f4800d7c6eb17e4d70856bbd02c87421fbd9fe2f57fd9c3917c13e93257", "retrievedAt": "2026-10-15T14:40:52.850Z", "title": "Chapter I: Out of the Breach", "license": "Factual reference to official Hytale release notes; independently written summary, no copied article.", "attribution": "Hytale Team / Hypixel Studios", "modifications": "Selective summary. Lab costs and recipe requirements are independently checked against release game records."}
+  - {"url": "https://hytl.dev/items/GoblinLab_Generator", "title": "Goblin Power Generator", "revision": "sha256:95b1d2917b3cdf115af7ea802cc2a5de4acfdd097173cec96623f93595cb9455", "retrievedAt": "2026-10-15T14:42:46.022603+00:00", "license": "Factual game-data reference; Hytale assets retain their original rights. No source prose reproduced.", "attribution": "Hytale release game-file records, checked against the HYTL.DEV release index", "modifications": "Original explanation and repair-cost tables from AugmentBlock upgrades; crafting requirements from the actual recipe."}
+  - {"url": "https://hytl.dev/wiki/exploration/chapter-one", "title": "Hytale2026-10-15_16-12-25.png", "revision": "sha256:dcc488afb79b022140147b9eee27d29da95e4ddbbed171fb16fde7e67b0ebb10", "retrievedAt": "2026-10-15T14:42:46.022603+00:00", "license": "Contributor-supplied gameplay screenshot, supplied for publication in this wiki. Hytale assets retain their original rights; excluded from the article text license.", "attribution": "Community gameplay screenshot · Hytale assets © Hypixel Studios.", "modifications": "Proportional resize from 3840×2160 to 1600×900; metadata-free canonical PNG. No crop, compositing or generated artwork."}
 ---
 
-**Chapter I: Out of the Breach** was released for Exploration Mode on **12 October 2026**. The official release post directs players to the Forgotten Temple and its new Goblin Lab, on either an existing Exploration save or a new one.
+**Chapter I: Out of the Breach** arrived in Exploration Mode on **12 October 2026**. Start at the Forgotten Temple; existing worlds and new saves are supported.
 
 ```hytl:zone-hero
 {
   "zone": "ForgottenTemple"
 }
 ```
+## Find the Goblin Lab
 
-## Follow the chapter objectives
+Look for the scrap-metal structure built into a temple tower. The entrance in the supplied screenshot has pipes, metal stairs and bright goblin signs against the older stonework.
 
-Visit the temple and use the Chapter screen's objectives to see the next task and its unlock. Once the chapter opens, a temporary Goblin Breach portal can appear in the world. Crossing it leads to an unstable fragment of Orbis that regenerates on entry; Void pressure eventually forces a return. Fighting that pressure and upgrading the Goblin Breach Console can extend the visit.
-
-## A spoiler-light starting point
-
-This introduction stops before the dungeon and boss section. The [official release post](https://hytale.com/news/2026/10/2026-10-12-chapter-i-out-of-the-breach/) includes a marked spoiler boundary for readers who want the later encounters explained.
-
-```hytl:history
+```hytl:gallery
 {
-  "entries": [
+  "media": [
     {
-      "date": "2026-10-12",
-      "text": "Chapter I released in Exploration Mode, with the Forgotten Temple as its starting point.",
+      "type": "image",
+      "src": "/wiki-assets/008005c8c21cbc28213f044f30959cda687ff9e6b498174f00241a0cd1d671ae.png",
+      "alt": "Scrap-metal entrance built into a vine-covered tower at the Forgotten Temple",
+      "caption": "The Goblin Lab entrance at the Forgotten Temple. Community gameplay screenshot, 15 October 2026.",
       "source": {
-        "url": "https://hytale.com/news/2026/10/2026-10-12-chapter-i-out-of-the-breach/",
-        "revision": "sha256:40509aed0fd4c7b6434b02a097e722fd0245fb26bc21de3e36090eb001ae6aa0",
-        "retrievedAt": "2026-10-15T13:46:12.843156+00:00",
-        "license": "Factual reference to an official Hytale post; copyright retained by Hypixel Studios. Independently written summary, no copied article.",
-        "attribution": "Hytale Team / Hypixel Studios",
-        "modifications": "Original, selective summary of the dated announcement; future plans remain labelled as plans."
+        "url": "https://hytl.dev/wiki/exploration/chapter-one",
+        "title": "Hytale2026-10-15_16-12-25.png",
+        "revision": "sha256:dcc488afb79b022140147b9eee27d29da95e4ddbbed171fb16fde7e67b0ebb10",
+        "retrievedAt": "2026-10-15T14:42:46.022603+00:00",
+        "license": "Contributor-supplied gameplay screenshot, supplied for publication in this wiki. Hytale assets retain their original rights; excluded from the article text license.",
+        "attribution": "Community gameplay screenshot · Hytale assets © Hypixel Studios.",
+        "modifications": "Proportional resize from 3840×2160 to 1600×900; metadata-free canonical PNG. No crop, compositing or generated artwork."
       }
     }
   ]
 }
 ```
+## Restore power
 
-The temple card is the region record; it does not assert fixed overworld coordinates.
+The :item[Goblin Power Generator]{id="GoblinLab_Generator"} has a recorded repair cost of **10 Scraps**. Gather :item[Scraps]{id="Ingredient_Scraps"}, interact with the generator and check its repair prompt. Power is also a prerequisite for the lab's other recorded repairs and recipes.
+
+```hytl:infobox
+{
+  "type": "item",
+  "id": "GoblinLab_Generator"
+}
+```
+Use the **Chapter screen** to follow your current objective and its unlock. Repair requirements are tied to individual lab machines; a workbench recipe and a machine repair are different interactions.
+
+## Your first breach
+
+A temporary Goblin Breach leads to a regenerating fragment of Orbis. Void pressure eventually ends the visit; fighting it and upgrading the lab's Breach Console can buy more time. Return to the lab as you collect materials.
+
+## Continue with spoilers
+
+:::callout{kind="warning" title="Progression and dungeon spoilers"}
+The :wiki[Goblin Lab and Deepworks guide]{page="goblin-lab-guide"} contains interior screenshots, repair costs, fragment recipes and boss names. Open it when you want the next steps explained.
+:::
 
 ```hytl:navbox
 {
   "title": "Keep exploring",
   "groups": [
     {
-      "title": "Related guides",
+      "title": "Guides",
       "links": [
+        {
+          "kind": "wiki",
+          "id": "goblin-lab-guide",
+          "label": "Goblin Lab and Deepworks — spoilers"
+        },
         {
           "kind": "wiki",
           "id": "backpack-upgrades",
