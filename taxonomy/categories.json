@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "id": "getting-started",
+    "labels": {
+      "en": "Getting started",
+      "de": "Einstieg"
+    },
+    "description": {
+      "en": "Start here for wiki help, exploration planning and core game systems.",
+      "de": "Wiki-Hilfe, Erkundungsplanung und grundlegende Spielsysteme."
+    }
+  },
+  {
+    "id": "chapters",
+    "labels": {
+      "en": "Chapters & dungeons",
+      "de": "Kapitel & Dungeons"
+    },
+    "description": {
+      "en": "Chapter progression, the Goblin Lab and dungeon guides. Spoilers are marked.",
+      "de": "Kapitel-Fortschritt, Goblin-Labor und Dungeon-Guides. Spoiler sind gekennzeichnet."
+    }
+  },
+  {
+    "id": "zones",
+    "labels": {
+      "en": "Zones & travel",
+      "de": "Zonen & Reisen"
+    },
+    "description": {
+      "en": "Explore the regions of Orbis and learn how to travel between destinations.",
+      "de": "Die Regionen von Orbis erkunden und zwischen Zielen reisen."
+    }
+  },
+  {
+    "id": "crafting",
+    "labels": {
+      "en": "Crafting & building",
+      "de": "Herstellung & Bauen"
+    },
+    "description": {
+      "en": "Workstations, processing recipes, food and furnishing projects.",
+      "de": "Werkbänke, Verarbeitung, Nahrung und Einrichtungsprojekte."
+    }
+  },
+  {
+    "id": "equipment",
+    "labels": {
+      "en": "Equipment & upgrades",
+      "de": "Ausrüstung"
+    },
+    "description": {
+      "en": "Weapons, backpack upgrades and keeping your equipment ready.",
+      "de": "Waffen, Rucksack-Upgrades und die Pflege deiner Ausrüstung."
+    }
+  },
+  {
+    "id": "materials",
+    "labels": {
+      "en": "Materials & gathering",
+      "de": "Materialien"
+    },
+    "description": {
+      "en": "Find ores, collect hides and follow raw materials through processing.",
+      "de": "Erze finden, Häute sammeln und Rohstoffe weiterverarbeiten."
+    }
+  },
+  {
+    "id": "creatures",
+    "labels": {
+      "en": "Creatures & encounters",
+      "de": "Kreaturen"
+    },
+    "description": {
+      "en": "Creature guides, recorded spawn regions and useful drops.",
+      "de": "Kreaturen-Guides, erfasste Spawn-Regionen und nützliche Drops."
+    }
+  }
+]

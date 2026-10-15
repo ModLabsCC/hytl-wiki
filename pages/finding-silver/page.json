@@ -7,7 +7,9 @@
     "materials",
     "exploration"
   ],
-  "categories": [],
+  "categories": [
+    "materials"
+  ],
   "relations": [
     {
       "kind": "item",

@@ -8,7 +8,9 @@
     "crafting",
     "materials"
   ],
-  "categories": [],
+  "categories": [
+    "equipment"
+  ],
   "relations": [
     {
       "kind": "item",
