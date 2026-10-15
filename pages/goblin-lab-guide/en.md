@@ -35,7 +35,7 @@ Use the overview to recognise the room, then select the machine you want to rest
   "media": [
     {
       "type": "image",
-      "src": "/wiki-assets/0904e94a8de3d01cde5dce2a9b5388ad06cc3a0bab09bb20aab0e6dd91f4e816.png",
+      "src": "/wiki-assets/912354c7a25120573ca864f1218059f04e98e39cc1cd1cc4ca21c8617c0a9490.png",
       "alt": "Orange-lit Goblin Lab with pipes, machinery, signs and a workbench",
       "caption": "Inside the Goblin Lab: orange-lit pipes, a central opening and work areas along the walls.",
       "source": {
@@ -94,7 +94,7 @@ The :item[Goblin Tinkerer's Workbench]{id="GoblinLab_Tinkering_Bench"} uses sepa
   "media": [
     {
       "type": "image",
-      "src": "/wiki-assets/7d55c0970994adcba29fce84f9609fd64ae410444cd7a8af7bb86bd9ab27faf6.png",
+      "src": "/wiki-assets/630ffafc7f9419e5821d74d046545fe6d86aa67984bbefd5dc9e9fd2c66c4eff.png",
       "alt": "Glowing suspended machinery and scrap-metal fixtures inside the Goblin Lab",
       "caption": "A closer view of glowing lab machinery and its surrounding fittings.",
       "source": {
@@ -109,7 +109,7 @@ The :item[Goblin Tinkerer's Workbench]{id="GoblinLab_Tinkering_Bench"} uses sepa
     },
     {
       "type": "image",
-      "src": "/wiki-assets/a9a68e28015a31ab7efbd2e0770f8cb9d10aaf372f61df2c052ebcf369f3714a.png",
+      "src": "/wiki-assets/e3e5efbad5394bec49620b8c9bc1cac835c0f19d10980a0211fa7a7aae4abb45.png",
       "alt": "A goblin at a cluttered work area beneath orange pipes in the Goblin Lab",
       "caption": "A goblin at a cluttered work area. The screenshot illustrates the lab; use the named item records and repair prompts to identify individual machines.",
       "source": {
